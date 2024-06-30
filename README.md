@@ -7,6 +7,6 @@ Lambda를 통한 Serverless 배포
 
 <h1> Stack </h1>
 - AWS Lambda <br/>
-- Python 3.1.2 <br/>
+- Python 3.12.0 <br/>
 
 
